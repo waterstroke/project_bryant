@@ -3,6 +3,11 @@
   border-radius: 0 !important;
   background-color: 30% grey;
 }
+.col-md-4 {
+  font-size: 20px;
+  background-color: black;
+}
+
 
 .jumboblue {
   background-color: pink;
@@ -38,18 +43,4 @@
 
 .sharp-corner {
   border-radius: 5 !important;
-}
-
-.tabfloat {
-  float: right;
-  padding-right: 40%;
-}
-
-.tabfloatleft {
-  float:left;
-
-}
-
-.navbar-right {
-  padding-right: 10%;
 }
