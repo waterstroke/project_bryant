@@ -1,0 +1,55 @@
+.jumbotron {
+  padding: .05%;
+  border-radius: 0 !important;
+  background-color: 30% grey;
+}
+
+.jumboblue {
+  background-color: pink;
+}
+
+.jumbogreen {
+  background-color: green;
+}
+
+.jumbowidth {
+  width: 450px;
+
+}
+
+.blue {
+  color: #3B4E8F;
+}
+
+.size h1 {
+  font-size: 30px;
+}
+
+.size p {
+  font-size: 15px;
+}
+.col-md-6 {
+  padding: 1%;
+}
+
+.bg-success h2 {
+  color: 20% blue;
+}
+
+.sharp-corner {
+  border-radius: 5 !important;
+}
+
+.tabfloat {
+  float: right;
+  padding-right: 40%;
+}
+
+.tabfloatleft {
+  float:left;
+
+}
+
+.navbar-right {
+  padding-right: 10%;
+}
