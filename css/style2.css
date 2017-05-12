@@ -13,29 +13,29 @@ img {
   max-height: 50%;
   object-fit: contain;
 }
-div {
-  text-align: justify;
-}
+.justify-right {
+  clear: both;
+  float: right;
+  object-fit: contain;
 
-p {
-  font-size: 20px;
+.jumbogreen {
+  background-color: 20% grey;
 }
 .cblue {
-  color: #005580;
-  font-size: 35px;
+  color: blue;
 }
 
 .blue {
-  color: #3B4E8F;
+  text-emphasis-color: #3B4E8F;
 }
 
 
 .size {
-  font-size: 25px;
-  color: #005580;
+  font-size: 20px;
 }
 
-
+.col-md-4 {
+  font-size: 20px;
 }
 .bg-success h2 {
   color: 20% blue;
