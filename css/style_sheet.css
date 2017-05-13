@@ -14,9 +14,7 @@ img {
   object-fit: contain;
 }
 
-div {
-  text-align: justify;
-}
+
 .justify-left {
   float: left;
 }
@@ -25,9 +23,10 @@ p {
   padding: 5px;
   margin: 10px;
 }
-.cblue {
-  color: #005580;
-  font-size: 35px;
+.smaller {
+  font-size: 10px;
+  padding: 5px;
+  margin: 10px;
 }
 
 .red {
