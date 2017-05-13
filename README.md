@@ -10,7 +10,7 @@ _Iv'e created a webpage about myself. Within this webpage using HTML and CSS to 
 
 ## link to site on GitHub Pages
 
-
+https://waterstroke.github.io/project_bryant/
 
 ## Support and contact details
 
