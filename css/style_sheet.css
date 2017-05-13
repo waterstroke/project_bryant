@@ -26,7 +26,11 @@ torypainting {
 .red {
   color: red;
 }
-
+p {
+  background-color: white;
+  padding: 5px;
+  margin: 10px;
+}
 
 
 .sharp-corner {
