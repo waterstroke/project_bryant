@@ -13,7 +13,9 @@ img {
   max-height: 80%;
   object-fit: contain;
 }
-
+ol li strong {
+  color: #6bbddb;
+}
 
 .justify-left {
   float: left;
@@ -34,9 +36,8 @@ p {
   margin: 10px;
 }
 .red {
-  color: red;
+  color: #6bbddb;
 }
-
 
 
 .sharp-corner {
